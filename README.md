@@ -1,4 +1,4 @@
-##Lailen Assignment
+## Lailen Assignment
 
 A point of sale application for a departmental store using Laravel + Filament 
 
